@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Hello! I am Mg Kyal Ngar.
+My first redefine website from iPortfolio.
 
 Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Redesign by Mg Kyal Ngar.
