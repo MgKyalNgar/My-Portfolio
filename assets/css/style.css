@@ -533,6 +533,9 @@ section {
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
+.square {
+    aspect-ratio: 1 / 1;
+}
 
 .portfolio #portfolio-flters {
   padding: 0;
