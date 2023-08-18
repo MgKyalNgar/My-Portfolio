@@ -687,13 +687,25 @@ section {
 }
 
 .portfolio-details .portfolio-description h2 {
-  font-size: 26px;
+  font-size: 23px;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+}
+
+/* --- Logo conctept --- */
+.portfolio-details .logo-subtitle{
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.portfolio-details .logo-description p{
+  line-height: 24px;
+  font-size: 14px;
 }
 
 /*--------------------------------------------------------------
@@ -1107,3 +1119,6 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+ 
