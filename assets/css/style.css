@@ -1,4 +1,3 @@
-* Template Name: iPortfolio
 * Updated: Jul 27 2023 with Bootstrap v5.3.1
 * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 * Author: BootstrapMade.com
@@ -1120,5 +1119,22 @@ section {
   }
 }
 
+/*--------------------------------------------------------------
+# Mobile nav toggle & back to top - larger touch targets on small screens
+--------------------------------------------------------------*/
+@media (max-width: 768px) {
+  .mobile-nav-toggle {
+    width: 56px;
+    height: 56px;
+    font-size: 30px;
+  }
 
- 
+  .back-to-top {
+    width: 56px;
+    height: 56px;
+  }
+
+  .back-to-top i {
+    font-size: 34px;
+  }
+}
